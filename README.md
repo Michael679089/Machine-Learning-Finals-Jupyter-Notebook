@@ -6,3 +6,4 @@
     - It's not needed in Google Colab.
         - Just download the main.ipynb.
 
+- We need the CSV file!!!!!
