@@ -7,3 +7,4 @@
         - Just download the main.ipynb.
 
 - We need the CSV file!!!!!
+    - 7/16/2024: No worries we already got it.
