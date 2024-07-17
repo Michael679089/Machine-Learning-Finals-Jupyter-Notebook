@@ -1,8 +1,8 @@
 # Members:
 1. Tripolca
 2. Michael Jacob
-3. Clydora
-4. Aden
+3. Ranjet Fortuna
+4. Ador
 
 # Goals
 - [X] Create a Linear Regression Function
